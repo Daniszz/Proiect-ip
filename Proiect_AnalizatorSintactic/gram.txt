@@ -1,0 +1,88 @@
+S->SS
+S->SS CSS
+CSS->C SS
+
+SS->NPMs VPs
+SS->NPFs VPs
+SS->NPMp VPp
+SS->NPFp VPp
+SS->NPMs Vs
+SS->NPFs Vs
+SS->NPMp Vp
+SS->NPMp Vp
+
+NPMs->PronMs
+NPFs->PronFs
+NPMp->PronMp
+NPfp->PronFp
+
+NPMs->DetMs NMs
+NPFs->DetFs NFs
+NPMp->DetMp NMp
+NPFp->DetFp NFp
+
+NPFs->NFs
+NPMs->NMs
+NPMp->NMp
+NPFp->NFp
+NPMs->NNs
+NPFp->NNp
+
+
+NPMs->NPMs APMs
+NPMp->NPMp APMp
+NPMs->NPMs CP
+NPMp->NPMp CP
+NPFs->NPFs CP
+NPFp->NPFp CP
+NPFs->NPFs APFs
+NPFp->NPFp APFp
+
+
+
+
+
+APMs->AMs
+APMp->AMp
+APFs->AFs
+APFp->AFp
+
+
+
+APFs->APFs CP
+APFp->APFp CP
+APMs->APMs CP
+APMs->APMp CP
+
+
+
+CP->C AFs
+CP->C AFp
+CP->C AMs
+CP->C AMp
+
+
+
+CP->C NPFs
+CP->C NPFp
+CP->C NPMs
+CP->C NPMp
+CPS->C VPs
+CPP->C VPp
+
+VPs->Vs CPS
+VPp->Vp CPP
+VPs->Vs VPs
+VPp->Vp VPp
+
+VPs->Vs NPMs
+VPs->Vs NPFs
+VPs->Vs NPMp
+VPs->Vs NPFp
+
+VPp->Vp NPMs
+VPp->Vp NPFs
+VPp->Vp NPMp
+VPp->Vp NPFp
+
+

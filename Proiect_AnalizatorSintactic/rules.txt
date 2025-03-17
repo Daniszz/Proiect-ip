@@ -1,0 +1,21 @@
+SS = propozitie simpla
+S = propozitie simpla/compusa
+CSS = conjunctie + propozitie simpla
+NPM = grup nominal la masculin
+NPF = grup nominal la feminin
+APF = grup adjectival la feminin
+APM = grup adjectival la masculin
+VP = grup verbal
+CP = grup format dintr-o conjunctie
+NN = substantiv neutru
+NM = substantiv masculin
+NF = substantiv feminin
+AM = adjectiv masculin
+AF = adjectiv feminin
+V = verb
+C = conjunctie
+PronM = pronume la masculin
+PronF = pronume la feminin
+* s/p de la finalul unui reguli semnifica numarul
+
+

@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1669904803 source:d:\facultate\sem 1\ip\daca_nu_merge\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"functii.h"
+	"structuri.h"
+
+1669904803 d:\facultate\sem 1\ip\daca_nu_merge\functii.h
+	"structuri.h"
+
+1669904507 d:\facultate\sem 1\ip\daca_nu_merge\structuri.h
+
+1669983710 source:c:\users\hritc\onedrive\desktop\daca_nu_merge\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"functii.h"
+	"structuri.h"
+
+1669985697 c:\users\hritc\onedrive\desktop\daca_nu_merge\functii.h
+	"structuri.h"
+
+1669905441 c:\users\hritc\onedrive\desktop\daca_nu_merge\structuri.h
+
+1673095432 source:c:\users\hritc\onedrive\desktop\daca_nu_merge2\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"functii.h"
+	"structuri.h"
+	"f_interfata.h"
+
+1673095338 c:\users\hritc\onedrive\desktop\daca_nu_merge2\functii.h
+	"structuri.h"
+	"f_interfata.h"
+
+1673095341 c:\users\hritc\onedrive\desktop\daca_nu_merge2\structuri.h
+
+1673188137 source:d:\facultate\sem 1\ip\daca_nu_merge2\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"functii.h"
+	"structuri.h"
+	"f_interfata.h"
+
+1673188136 d:\facultate\sem 1\ip\daca_nu_merge2\functii.h
+	"structuri.h"
+	"f_interfata.h"
+
+1673193161 d:\facultate\sem 1\ip\daca_nu_merge2\structuri.h
+
+1673188136 d:\facultate\sem 1\ip\daca_nu_merge2\f_interfata.h
+	"structuri.h"
+	"functii.h"
+
+1673095338 c:\users\hritc\onedrive\desktop\daca_nu_merge2\f_interfata.h
+	"structuri.h"
+	"functii.h"
+
+1673188137 source:d:\facultate\sem 1\ip\proiect_analizatorsintactic\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"functii.h"
+	"structuri.h"
+	"f_interfata.h"
+
+1673188136 d:\facultate\sem 1\ip\proiect_analizatorsintactic\functii.h
+	"structuri.h"
+	"f_interfata.h"
+
+1673193161 d:\facultate\sem 1\ip\proiect_analizatorsintactic\structuri.h
+
+1673344158 d:\facultate\sem 1\ip\proiect_analizatorsintactic\f_interfata.h
+	"structuri.h"
+	"functii.h"
+
